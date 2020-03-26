@@ -1,0 +1,1 @@
+First, implement the `encode` method which will take text as a parameter and return the Morse sequence for it. Letters of the same word will be separated by a space and words will be separated by a pipe character `|`. `decode` will do the opposite.
